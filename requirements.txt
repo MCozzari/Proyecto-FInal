@@ -14,7 +14,7 @@ exceptiongroup==1.2.2
 executing==2.2.0
 fastapi==0.115.8
 fonttools==4.55.8
-h11==0.14.0
+h11==0.16.0
 idna==3.10
 imbalanced-learn==0.13.0
 imblearn==0.0
