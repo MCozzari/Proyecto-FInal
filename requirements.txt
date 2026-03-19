@@ -1,4 +1,4 @@
-﻿annotated-types==0.7.0
+annotated-types==0.7.0
 anyio==4.8.0
 asttokens==3.0.0
 certifi==2025.1.31
@@ -28,7 +28,7 @@ kiwisolver==1.4.8
 matplotlib==3.10.0
 matplotlib-inline==0.1.7
 nest-asyncio==1.6.0
-nltk==3.9.1
+nltk==3.9.3
 numpy==1.26.4
 packaging<24
 pandas==2.1.4
